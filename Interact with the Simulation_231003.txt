@@ -1,0 +1,15 @@
+Interact with the Simulation:
+
+Follow the prompts to input the grid size (width and height) and tile size (pixels).
+Use the following keys to interact with the simulation:
+Spacebar: Start/Pause the simulation.
+C: Clear the grid and stop the simulation.
+G: Generate a random initial pattern.
+S: Step through the simulation one generation at a time (when paused).
+1: Add a predefined glider pattern.
+2: Add a predefined block pattern.
+Plus (+) or Equals (=): Increase the tile size (zoom in).
+Minus (-): Decrease the tile size (zoom out).
+Mouse Click: Toggle cells alive or dead.
+
+
